@@ -1,4 +1,7 @@
-### Heisann! 👋
+# Hallo verden! 👋
+
+Jeg er Tom Jarle. Jeg liker å lære nye ting. 🌱
+
 
 <!--
 **fuzzbin/fuzzbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
