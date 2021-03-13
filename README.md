@@ -1,6 +1,6 @@
 # Hallo verden! 👋
 
-Jeg er Tom Jarle. Jeg liker å lære nye ting. 🌱
+Mitt navn er Tom Jarle. Jeg liker å lære nye ting. 🌱
 
 
 <!--
